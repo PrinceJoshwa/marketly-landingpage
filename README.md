@@ -151,9 +151,9 @@ npm start
 ### Update Company Information
 Edit the following files to customize content:
 - Replace `Marketly` with your company name
-- Update email: `hello@marketly.com`
-- Update phone: `+1 (234) 567-890`
-- Update address: `123 Marketing St, Tech City, TC 12345`
+- Update email: `ramya@marketly.tech`
+- Update phone: `+91 9606334692`
+- Update address: `Sarjapur road, Bangalore 35`
 
 ### Modify Services
 Edit the service arrays in `/app/page.tsx`:
@@ -257,8 +257,8 @@ All rights reserved. This project is proprietary to Marketly.
 ## 📞 Support
 
 For questions or issues:
-- Email: hello@marketly.com
-- Phone: +1 (234) 567-890
+- Email: ramya@marketly.tech
+- Phone: +91 9606334692
 
 ## 🎓 Learning Resources
 

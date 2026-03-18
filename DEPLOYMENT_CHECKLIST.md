@@ -6,9 +6,9 @@ Complete this checklist before deploying to production.
 
 ### Content Updates
 - [ ] Company name updated (replace "Marketly")
-- [ ] Company email updated (replace "hello@marketly.com")
-- [ ] Company phone updated (replace "+1 (234) 567-890")
-- [ ] Company address updated (replace "123 Marketing St, Tech City, TC 12345")
+- [ ] Company email updated (replace "ramya@marketly.tech")
+- [ ] Company phone updated (replace "+91 9606334692")
+- [ ] Company address updated (replace "Sarjapur road, Bangalore 35")
 - [ ] Social media links updated (LinkedIn, Twitter, Instagram)
 - [ ] All service descriptions are current and accurate
 - [ ] FAQs reviewed and updated

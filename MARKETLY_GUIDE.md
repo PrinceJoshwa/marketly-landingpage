@@ -173,9 +173,9 @@ Edit the CSS custom properties in `/app/globals.css`:
 
 ### Update Company Information
 Search for placeholder text in components:
-- `hello@marketly.com` → Your email
-- `+1 (234) 567-890` → Your phone
-- `123 Marketing St, Tech City, TC 12345` → Your address
+- `ramya@marketly.tech` → Your email
+- `+91 9606334692` → Your phone
+- `Sarjapur road, Bangalore 35` → Your address
 - `Marketly` → Your company name
 
 ### Add/Update Services

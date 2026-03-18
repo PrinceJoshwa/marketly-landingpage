@@ -175,9 +175,9 @@ pnpm start
 Search for "Marketly" throughout codebase and replace
 
 ### Update Contact Info
-- Email: Edit `hello@marketly.com` in Header, Footer, Contact page
-- Phone: Edit `+1 (234) 567-890`
-- Address: Edit `123 Marketing St, Tech City, TC 12345`
+- Email: Edit `ramya@marketly.tech` in Header, Footer, Contact page
+- Phone: Edit `+91 9606334692`
+- Address: Edit `Sarjapur road, Bangalore 35`
 
 ### Modify Services
 Edit arrays in `/app/page.tsx`:
